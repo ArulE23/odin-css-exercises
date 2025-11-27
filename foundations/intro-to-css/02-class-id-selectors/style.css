@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd,
+.cool-odd {
+    background-color: rgba(234, 145, 149, 0.9);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool-odd {
+    font-size: 24px;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: 700;
+}
